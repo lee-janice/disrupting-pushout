@@ -1,0 +1,70 @@
+#-------------------------------------------------------------------------------
+# RESEARCH ALLIANCE FOR NEW YORK CITY SCHOOLS
+# FIRST CREATED ON: 10-10-2024
+# LAST UPDATED: 11-01-2024
+# CREATOR: Janice Lee (JL)
+# PROJECT: ACS
+#
+# PROGRAM FUNCTION: Download data from US Census 
+#-------------------------------------------------------------------------------
+# install packages if necessary 
+# install.packages("tidycensus")
+# install.packages("tidyverse")
+# install.packages("censusapi")
+# install.packages("openxlsx")
+
+# load libraries 
+library(tidycensus)
+library(tidyverse)
+library(censusapi)
+library(openxlsx)
+
+# set working directory
+setwd("~/boxdrive/ACS/")
+
+# set census API key: https://walker-data.com/tidycensus/articles/basic-usage.html
+# census_api_key("replace with your census API key", install=T)
+
+# after running the above command, replace it with the two lines below, 
+# which will read the key from your environment 
+readRenviron("~/.Renviron")
+Sys.getenv("CENSUS_API_KEY")
+
+# cache shapefiles for use in future sessions
+options(tigris_use_cache = TRUE)
+
+#-------------------------------------------------------------------------------
+
+# view variables in the 2022 census 
+v2022 <- load_variables(2022, "acs5", cache = TRUE)
+view(v2022)
+# write to Excel file for better viewing 
+write.xlsx(v2022, "v2022.xlsx")
+
+v2014 <- load_variables(2014, "acs5", cache = TRUE)
+view(v2014)
+
+# get the variables to extract 
+acs_variables <- read_csv("acs_variables_to_extract.csv")
+variables <- acs_variables[["name"]]
+
+# retrieve data for each year
+pull_from_acs <- function(yr) {
+  data <- get_acs(geography="tract", variables=variables,
+                  state="NY", county="New York", geometry=T, 
+                  year=yr)
+  # write to CSV file 
+  write.csv(data, paste0("acs", yr, ".csv"))
+}
+
+pull_from_acs(2014)
+pull_from_acs(2015)
+pull_from_acs(2016)
+pull_from_acs(2017)
+pull_from_acs(2018)
+pull_from_acs(2019)
+pull_from_acs(2020)
+pull_from_acs(2021)
+pull_from_acs(2022)
+
+

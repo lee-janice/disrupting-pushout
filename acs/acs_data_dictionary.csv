@@ -1,0 +1,403 @@
+﻿name,label,concept,geography
+B01001_001,Estimate!!Total:,Sex by Age,block group
+B01001_002,Estimate!!Total:!!Male:,Sex by Age,block group
+B01001_003,Estimate!!Total:!!Male:!!Under 5 years,Sex by Age,block group
+B01001_004,Estimate!!Total:!!Male:!!5 to 9 years,Sex by Age,block group
+B01001_005,Estimate!!Total:!!Male:!!10 to 14 years,Sex by Age,block group
+B01001_006,Estimate!!Total:!!Male:!!15 to 17 years,Sex by Age,block group
+B01001_007,Estimate!!Total:!!Male:!!18 and 19 years,Sex by Age,block group
+B01001_008,Estimate!!Total:!!Male:!!20 years,Sex by Age,block group
+B01001_009,Estimate!!Total:!!Male:!!21 years,Sex by Age,block group
+B01001_010,Estimate!!Total:!!Male:!!22 to 24 years,Sex by Age,block group
+B01001_011,Estimate!!Total:!!Male:!!25 to 29 years,Sex by Age,block group
+B01001_012,Estimate!!Total:!!Male:!!30 to 34 years,Sex by Age,block group
+B01001_013,Estimate!!Total:!!Male:!!35 to 39 years,Sex by Age,block group
+B01001_014,Estimate!!Total:!!Male:!!40 to 44 years,Sex by Age,block group
+B01001_015,Estimate!!Total:!!Male:!!45 to 49 years,Sex by Age,block group
+B01001_016,Estimate!!Total:!!Male:!!50 to 54 years,Sex by Age,block group
+B01001_017,Estimate!!Total:!!Male:!!55 to 59 years,Sex by Age,block group
+B01001_018,Estimate!!Total:!!Male:!!60 and 61 years,Sex by Age,block group
+B01001_019,Estimate!!Total:!!Male:!!62 to 64 years,Sex by Age,block group
+B01001_020,Estimate!!Total:!!Male:!!65 and 66 years,Sex by Age,block group
+B01001_021,Estimate!!Total:!!Male:!!67 to 69 years,Sex by Age,block group
+B01001_022,Estimate!!Total:!!Male:!!70 to 74 years,Sex by Age,block group
+B01001_023,Estimate!!Total:!!Male:!!75 to 79 years,Sex by Age,block group
+B01001_024,Estimate!!Total:!!Male:!!80 to 84 years,Sex by Age,block group
+B01001_025,Estimate!!Total:!!Male:!!85 years and over,Sex by Age,block group
+B01001_026,Estimate!!Total:!!Female:,Sex by Age,block group
+B01001_027,Estimate!!Total:!!Female:!!Under 5 years,Sex by Age,block group
+B01001_028,Estimate!!Total:!!Female:!!5 to 9 years,Sex by Age,block group
+B01001_029,Estimate!!Total:!!Female:!!10 to 14 years,Sex by Age,block group
+B01001_030,Estimate!!Total:!!Female:!!15 to 17 years,Sex by Age,block group
+B01001_031,Estimate!!Total:!!Female:!!18 and 19 years,Sex by Age,block group
+B01001_032,Estimate!!Total:!!Female:!!20 years,Sex by Age,block group
+B01001_033,Estimate!!Total:!!Female:!!21 years,Sex by Age,block group
+B01001_034,Estimate!!Total:!!Female:!!22 to 24 years,Sex by Age,block group
+B01001_035,Estimate!!Total:!!Female:!!25 to 29 years,Sex by Age,block group
+B01001_036,Estimate!!Total:!!Female:!!30 to 34 years,Sex by Age,block group
+B01001_037,Estimate!!Total:!!Female:!!35 to 39 years,Sex by Age,block group
+B01001_038,Estimate!!Total:!!Female:!!40 to 44 years,Sex by Age,block group
+B01001_039,Estimate!!Total:!!Female:!!45 to 49 years,Sex by Age,block group
+B01001_040,Estimate!!Total:!!Female:!!50 to 54 years,Sex by Age,block group
+B01001_041,Estimate!!Total:!!Female:!!55 to 59 years,Sex by Age,block group
+B01001_042,Estimate!!Total:!!Female:!!60 and 61 years,Sex by Age,block group
+B01001_043,Estimate!!Total:!!Female:!!62 to 64 years,Sex by Age,block group
+B01001_044,Estimate!!Total:!!Female:!!65 and 66 years,Sex by Age,block group
+B01001_045,Estimate!!Total:!!Female:!!67 to 69 years,Sex by Age,block group
+B01001_046,Estimate!!Total:!!Female:!!70 to 74 years,Sex by Age,block group
+B01001_047,Estimate!!Total:!!Female:!!75 to 79 years,Sex by Age,block group
+B01001_048,Estimate!!Total:!!Female:!!80 to 84 years,Sex by Age,block group
+B01001_049,Estimate!!Total:!!Female:!!85 years and over,Sex by Age,block group
+B02001_001,Estimate!!Total:,Race,block group
+B02001_002,Estimate!!Total:!!White alone,Race,block group
+B02001_003,Estimate!!Total:!!Black or African American alone,Race,block group
+B02001_004,Estimate!!Total:!!American Indian and Alaska Native alone,Race,block group
+B02001_005,Estimate!!Total:!!Asian alone,Race,block group
+B02001_006,Estimate!!Total:!!Native Hawaiian and Other Pacific Islander alone,Race,block group
+B02001_007,Estimate!!Total:!!Some Other Race alone,Race,block group
+B02001_008,Estimate!!Total:!!Two or More Races:,Race,block group
+B02001_009,Estimate!!Total:!!Two or More Races:!!Two races including Some Other Race,Race,block group
+B02001_010,"Estimate!!Total:!!Two or More Races:!!Two races excluding Some Other Race, and three or more races",Race,block group
+B03002_001,Estimate!!Total:,Hispanic or Latino Origin by Race,block group
+B03002_002,Estimate!!Total:!!Not Hispanic or Latino:,Hispanic or Latino Origin by Race,block group
+B03002_003,Estimate!!Total:!!Not Hispanic or Latino:!!White alone,Hispanic or Latino Origin by Race,block group
+B03002_004,Estimate!!Total:!!Not Hispanic or Latino:!!Black or African American alone,Hispanic or Latino Origin by Race,block group
+B03002_005,Estimate!!Total:!!Not Hispanic or Latino:!!American Indian and Alaska Native alone,Hispanic or Latino Origin by Race,block group
+B03002_006,Estimate!!Total:!!Not Hispanic or Latino:!!Asian alone,Hispanic or Latino Origin by Race,block group
+B03002_007,Estimate!!Total:!!Not Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,Hispanic or Latino Origin by Race,block group
+B03002_008,Estimate!!Total:!!Not Hispanic or Latino:!!Some other race alone,Hispanic or Latino Origin by Race,block group
+B03002_009,Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:,Hispanic or Latino Origin by Race,block group
+B03002_010,Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:!!Two races including Some other race,Hispanic or Latino Origin by Race,block group
+B03002_011,"Estimate!!Total:!!Not Hispanic or Latino:!!Two or more races:!!Two races excluding Some other race, and three or more races",Hispanic or Latino Origin by Race,block group
+B03002_012,Estimate!!Total:!!Hispanic or Latino:,Hispanic or Latino Origin by Race,block group
+B03002_013,Estimate!!Total:!!Hispanic or Latino:!!White alone,Hispanic or Latino Origin by Race,block group
+B03002_014,Estimate!!Total:!!Hispanic or Latino:!!Black or African American alone,Hispanic or Latino Origin by Race,block group
+B03002_015,Estimate!!Total:!!Hispanic or Latino:!!American Indian and Alaska Native alone,Hispanic or Latino Origin by Race,block group
+B03002_016,Estimate!!Total:!!Hispanic or Latino:!!Asian alone,Hispanic or Latino Origin by Race,block group
+B03002_017,Estimate!!Total:!!Hispanic or Latino:!!Native Hawaiian and Other Pacific Islander alone,Hispanic or Latino Origin by Race,block group
+B03002_018,Estimate!!Total:!!Hispanic or Latino:!!Some other race alone,Hispanic or Latino Origin by Race,block group
+B03002_019,Estimate!!Total:!!Hispanic or Latino:!!Two or more races:,Hispanic or Latino Origin by Race,block group
+B03002_020,Estimate!!Total:!!Hispanic or Latino:!!Two or more races:!!Two races including Some other race,Hispanic or Latino Origin by Race,block group
+B03002_021,"Estimate!!Total:!!Hispanic or Latino:!!Two or more races:!!Two races excluding Some other race, and three or more races",Hispanic or Latino Origin by Race,block group
+B11001_001,Estimate!!Total:,Household Type (Including Living Alone),block group
+B11001_002,Estimate!!Total:!!Family households:,Household Type (Including Living Alone),block group
+B11001_003,Estimate!!Total:!!Family households:!!Married-couple family,Household Type (Including Living Alone),block group
+B11001_004,Estimate!!Total:!!Family households:!!Other family:,Household Type (Including Living Alone),block group
+B11001_005,"Estimate!!Total:!!Family households:!!Other family:!!Male householder, no spouse present",Household Type (Including Living Alone),block group
+B11001_006,"Estimate!!Total:!!Family households:!!Other family:!!Female householder, no spouse present",Household Type (Including Living Alone),block group
+B11001_007,Estimate!!Total:!!Nonfamily households:,Household Type (Including Living Alone),block group
+B11001_008,Estimate!!Total:!!Nonfamily households:!!Householder living alone,Household Type (Including Living Alone),block group
+B11001_009,Estimate!!Total:!!Nonfamily households:!!Householder not living alone,Household Type (Including Living Alone),block group
+B11003_001,Estimate!!Total:,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_002,Estimate!!Total:!!Married-couple family:,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_003,Estimate!!Total:!!Married-couple family:!!With own children of the householder under 18 years:,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_004,Estimate!!Total:!!Married-couple family:!!With own children of the householder under 18 years:!!Under 6 years only,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_005,Estimate!!Total:!!Married-couple family:!!With own children of the householder under 18 years:!!Under 6 years and 6 to 17 years,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_006,Estimate!!Total:!!Married-couple family:!!With own children of the householder under 18 years:!!6 to 17 years only,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_007,Estimate!!Total:!!Married-couple family:!!No own children of the householder under 18 years,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_008,Estimate!!Total:!!Other family:,Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_009,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_010,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:!!With own children of the householder under 18 years:",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_011,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:!!With own children of the householder under 18 years:!!Under 6 years only",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_012,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:!!With own children of the householder under 18 years:!!Under 6 years and 6 to 17 years",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_013,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:!!With own children of the householder under 18 years:!!6 to 17 years only",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_014,"Estimate!!Total:!!Other family:!!Male householder, no spouse present:!!No own children of the householder under 18 years",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_015,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_016,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:!!With own children of the householder under 18 years:",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_017,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:!!With own children of the householder under 18 years:!!Under 6 years only",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_018,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:!!With own children of the householder under 18 years:!!Under 6 years and 6 to 17 years",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_019,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:!!With own children of the householder under 18 years:!!6 to 17 years only",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11003_020,"Estimate!!Total:!!Other family:!!Female householder, no spouse present:!!No own children of the householder under 18 years",Family Type by Presence and Age of Own Children Under 18 Years,block group
+B11010_001,Estimate!!Total:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_002,Estimate!!Total:!!Male householder:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_003,Estimate!!Total:!!Male householder:!!Living alone:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_004,Estimate!!Total:!!Male householder:!!Living alone:!!Householder 15 to 64 years,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_005,Estimate!!Total:!!Male householder:!!Living alone:!!Householder 65 years and over,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_006,Estimate!!Total:!!Male householder:!!Not living alone:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_007,Estimate!!Total:!!Male householder:!!Not living alone:!!Householder 15 to 64 years,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_008,Estimate!!Total:!!Male householder:!!Not living alone:!!Householder 65 years and over,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_009,Estimate!!Total:!!Female householder:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_010,Estimate!!Total:!!Female householder:!!Living alone:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_011,Estimate!!Total:!!Female householder:!!Living alone:!!Householder 15 to 64 years,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_012,Estimate!!Total:!!Female householder:!!Living alone:!!Householder 65 years and over,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_013,Estimate!!Total:!!Female householder:!!Not living alone:,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_014,Estimate!!Total:!!Female householder:!!Not living alone:!!Householder 15 to 64 years,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B11010_015,Estimate!!Total:!!Female householder:!!Not living alone:!!Householder 65 years and over,Nonfamily Households by Sex of Householder by Living Alone by Age of Householder,tract
+B17001_001,Estimate!!Total:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_002,Estimate!!Total:!!Income in the past 12 months below poverty level:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_003,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_004,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!Under 5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_005,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_006,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!6 to 11 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_007,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!12 to 14 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_008,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!15 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_009,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!16 and 17 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_010,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!18 to 24 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_011,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!25 to 34 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_012,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!35 to 44 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_013,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!45 to 54 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_014,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!55 to 64 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_015,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!65 to 74 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_016,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Male:!!75 years and over,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_017,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_018,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!Under 5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_019,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_020,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!6 to 11 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_021,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!12 to 14 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_022,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!15 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_023,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!16 and 17 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_024,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!18 to 24 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_025,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!25 to 34 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_026,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!35 to 44 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_027,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!45 to 54 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_028,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!55 to 64 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_029,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!65 to 74 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_030,Estimate!!Total:!!Income in the past 12 months below poverty level:!!Female:!!75 years and over,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_031,Estimate!!Total:!!Income in the past 12 months at or above poverty level:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_032,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_033,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!Under 5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_034,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_035,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!6 to 11 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_036,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!12 to 14 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_037,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!15 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_038,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!16 and 17 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_039,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!18 to 24 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_040,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!25 to 34 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_041,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!35 to 44 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_042,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!45 to 54 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_043,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!55 to 64 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_044,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!65 to 74 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_045,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Male:!!75 years and over,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_046,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_047,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!Under 5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_048,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!5 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_049,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!6 to 11 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_050,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!12 to 14 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_051,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!15 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_052,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!16 and 17 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_053,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!18 to 24 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_054,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!25 to 34 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_055,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!35 to 44 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_056,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!45 to 54 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_057,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!55 to 64 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_058,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!65 to 74 years,Poverty Status in the Past 12 Months by Sex by Age,tract
+B17001_059,Estimate!!Total:!!Income in the past 12 months at or above poverty level:!!Female:!!75 years and over,Poverty Status in the Past 12 Months by Sex by Age,tract
+B19001_001,Estimate!!Total:,Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_002,"Estimate!!Total:!!Less than $10,000",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_003,"Estimate!!Total:!!$10,000 to $14,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_004,"Estimate!!Total:!!$15,000 to $19,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_005,"Estimate!!Total:!!$20,000 to $24,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_006,"Estimate!!Total:!!$25,000 to $29,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_007,"Estimate!!Total:!!$30,000 to $34,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_008,"Estimate!!Total:!!$35,000 to $39,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_009,"Estimate!!Total:!!$40,000 to $44,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_010,"Estimate!!Total:!!$45,000 to $49,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_011,"Estimate!!Total:!!$50,000 to $59,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_012,"Estimate!!Total:!!$60,000 to $74,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_013,"Estimate!!Total:!!$75,000 to $99,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_014,"Estimate!!Total:!!$100,000 to $124,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_015,"Estimate!!Total:!!$125,000 to $149,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_016,"Estimate!!Total:!!$150,000 to $199,999",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19001_017,"Estimate!!Total:!!$200,000 or more",Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19013_001,Estimate!!Median household income in the past 12 months (in 2022 inflation-adjusted dollars),Median Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19127_001,Estimate!!Aggregate family income in the past 12 months (in 2022 inflation-adjusted dollars),Aggregate Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19113_001,Estimate!!Median family income in the past 12 months (in 2022 inflation-adjusted dollars),Median Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19057_001,Estimate!!Total:,Public Assistance Income in the Past 12 Months for Households,block group
+B19057_002,Estimate!!Total:!!With public assistance income,Public Assistance Income in the Past 12 Months for Households,block group
+B19057_003,Estimate!!Total:!!No public assistance income,Public Assistance Income in the Past 12 Months for Households,block group
+B19101_001,Estimate!!Total:,Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_002,"Estimate!!Total:!!Less than $10,000",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_003,"Estimate!!Total:!!$10,000 to $14,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_004,"Estimate!!Total:!!$15,000 to $19,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_005,"Estimate!!Total:!!$20,000 to $24,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_006,"Estimate!!Total:!!$25,000 to $29,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_007,"Estimate!!Total:!!$30,000 to $34,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_008,"Estimate!!Total:!!$35,000 to $39,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_009,"Estimate!!Total:!!$40,000 to $44,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_010,"Estimate!!Total:!!$45,000 to $49,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_011,"Estimate!!Total:!!$50,000 to $59,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_012,"Estimate!!Total:!!$60,000 to $74,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_013,"Estimate!!Total:!!$75,000 to $99,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_014,"Estimate!!Total:!!$100,000 to $124,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_015,"Estimate!!Total:!!$125,000 to $149,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_016,"Estimate!!Total:!!$150,000 to $199,999",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B19101_017,"Estimate!!Total:!!$200,000 or more",Family Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),block group
+B23001_001,Estimate!!Total:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_002,Estimate!!Total:!!Male:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_003,Estimate!!Total:!!Male:!!16 to 19 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_004,Estimate!!Total:!!Male:!!16 to 19 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_005,Estimate!!Total:!!Male:!!16 to 19 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_006,Estimate!!Total:!!Male:!!16 to 19 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_007,Estimate!!Total:!!Male:!!16 to 19 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_008,Estimate!!Total:!!Male:!!16 to 19 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_009,Estimate!!Total:!!Male:!!16 to 19 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_010,Estimate!!Total:!!Male:!!20 and 21 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_011,Estimate!!Total:!!Male:!!20 and 21 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_012,Estimate!!Total:!!Male:!!20 and 21 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_013,Estimate!!Total:!!Male:!!20 and 21 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_014,Estimate!!Total:!!Male:!!20 and 21 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_015,Estimate!!Total:!!Male:!!20 and 21 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_016,Estimate!!Total:!!Male:!!20 and 21 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_017,Estimate!!Total:!!Male:!!22 to 24 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_018,Estimate!!Total:!!Male:!!22 to 24 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_019,Estimate!!Total:!!Male:!!22 to 24 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_020,Estimate!!Total:!!Male:!!22 to 24 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_021,Estimate!!Total:!!Male:!!22 to 24 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_022,Estimate!!Total:!!Male:!!22 to 24 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_023,Estimate!!Total:!!Male:!!22 to 24 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_024,Estimate!!Total:!!Male:!!25 to 29 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_025,Estimate!!Total:!!Male:!!25 to 29 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_026,Estimate!!Total:!!Male:!!25 to 29 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_027,Estimate!!Total:!!Male:!!25 to 29 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_028,Estimate!!Total:!!Male:!!25 to 29 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_029,Estimate!!Total:!!Male:!!25 to 29 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_030,Estimate!!Total:!!Male:!!25 to 29 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_031,Estimate!!Total:!!Male:!!30 to 34 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_032,Estimate!!Total:!!Male:!!30 to 34 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_033,Estimate!!Total:!!Male:!!30 to 34 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_034,Estimate!!Total:!!Male:!!30 to 34 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_035,Estimate!!Total:!!Male:!!30 to 34 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_036,Estimate!!Total:!!Male:!!30 to 34 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_037,Estimate!!Total:!!Male:!!30 to 34 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_038,Estimate!!Total:!!Male:!!35 to 44 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_039,Estimate!!Total:!!Male:!!35 to 44 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_040,Estimate!!Total:!!Male:!!35 to 44 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_041,Estimate!!Total:!!Male:!!35 to 44 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_042,Estimate!!Total:!!Male:!!35 to 44 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_043,Estimate!!Total:!!Male:!!35 to 44 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_044,Estimate!!Total:!!Male:!!35 to 44 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_045,Estimate!!Total:!!Male:!!45 to 54 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_046,Estimate!!Total:!!Male:!!45 to 54 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_047,Estimate!!Total:!!Male:!!45 to 54 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_048,Estimate!!Total:!!Male:!!45 to 54 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_049,Estimate!!Total:!!Male:!!45 to 54 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_050,Estimate!!Total:!!Male:!!45 to 54 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_051,Estimate!!Total:!!Male:!!45 to 54 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_052,Estimate!!Total:!!Male:!!55 to 59 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_053,Estimate!!Total:!!Male:!!55 to 59 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_054,Estimate!!Total:!!Male:!!55 to 59 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_055,Estimate!!Total:!!Male:!!55 to 59 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_056,Estimate!!Total:!!Male:!!55 to 59 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_057,Estimate!!Total:!!Male:!!55 to 59 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_058,Estimate!!Total:!!Male:!!55 to 59 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_059,Estimate!!Total:!!Male:!!60 and 61 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_060,Estimate!!Total:!!Male:!!60 and 61 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_061,Estimate!!Total:!!Male:!!60 and 61 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_062,Estimate!!Total:!!Male:!!60 and 61 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_063,Estimate!!Total:!!Male:!!60 and 61 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_064,Estimate!!Total:!!Male:!!60 and 61 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_065,Estimate!!Total:!!Male:!!60 and 61 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_066,Estimate!!Total:!!Male:!!62 to 64 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_067,Estimate!!Total:!!Male:!!62 to 64 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_068,Estimate!!Total:!!Male:!!62 to 64 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_069,Estimate!!Total:!!Male:!!62 to 64 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_070,Estimate!!Total:!!Male:!!62 to 64 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_071,Estimate!!Total:!!Male:!!62 to 64 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_072,Estimate!!Total:!!Male:!!62 to 64 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_073,Estimate!!Total:!!Male:!!65 to 69 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_074,Estimate!!Total:!!Male:!!65 to 69 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_075,Estimate!!Total:!!Male:!!65 to 69 years:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_076,Estimate!!Total:!!Male:!!65 to 69 years:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_077,Estimate!!Total:!!Male:!!65 to 69 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_078,Estimate!!Total:!!Male:!!70 to 74 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_079,Estimate!!Total:!!Male:!!70 to 74 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_080,Estimate!!Total:!!Male:!!70 to 74 years:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_081,Estimate!!Total:!!Male:!!70 to 74 years:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_082,Estimate!!Total:!!Male:!!70 to 74 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_083,Estimate!!Total:!!Male:!!75 years and over:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_084,Estimate!!Total:!!Male:!!75 years and over:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_085,Estimate!!Total:!!Male:!!75 years and over:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_086,Estimate!!Total:!!Male:!!75 years and over:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_087,Estimate!!Total:!!Male:!!75 years and over:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_088,Estimate!!Total:!!Female:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_089,Estimate!!Total:!!Female:!!16 to 19 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_090,Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_091,Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_092,Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_093,Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_094,Estimate!!Total:!!Female:!!16 to 19 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_095,Estimate!!Total:!!Female:!!16 to 19 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_096,Estimate!!Total:!!Female:!!20 and 21 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_097,Estimate!!Total:!!Female:!!20 and 21 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_098,Estimate!!Total:!!Female:!!20 and 21 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_099,Estimate!!Total:!!Female:!!20 and 21 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_100,Estimate!!Total:!!Female:!!20 and 21 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_101,Estimate!!Total:!!Female:!!20 and 21 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_102,Estimate!!Total:!!Female:!!20 and 21 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_103,Estimate!!Total:!!Female:!!22 to 24 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_104,Estimate!!Total:!!Female:!!22 to 24 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_105,Estimate!!Total:!!Female:!!22 to 24 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_106,Estimate!!Total:!!Female:!!22 to 24 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_107,Estimate!!Total:!!Female:!!22 to 24 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_108,Estimate!!Total:!!Female:!!22 to 24 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_109,Estimate!!Total:!!Female:!!22 to 24 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_110,Estimate!!Total:!!Female:!!25 to 29 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_111,Estimate!!Total:!!Female:!!25 to 29 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_112,Estimate!!Total:!!Female:!!25 to 29 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_113,Estimate!!Total:!!Female:!!25 to 29 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_114,Estimate!!Total:!!Female:!!25 to 29 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_115,Estimate!!Total:!!Female:!!25 to 29 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_116,Estimate!!Total:!!Female:!!25 to 29 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_117,Estimate!!Total:!!Female:!!30 to 34 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_118,Estimate!!Total:!!Female:!!30 to 34 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_119,Estimate!!Total:!!Female:!!30 to 34 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_120,Estimate!!Total:!!Female:!!30 to 34 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_121,Estimate!!Total:!!Female:!!30 to 34 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_122,Estimate!!Total:!!Female:!!30 to 34 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_123,Estimate!!Total:!!Female:!!30 to 34 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_124,Estimate!!Total:!!Female:!!35 to 44 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_125,Estimate!!Total:!!Female:!!35 to 44 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_126,Estimate!!Total:!!Female:!!35 to 44 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_127,Estimate!!Total:!!Female:!!35 to 44 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_128,Estimate!!Total:!!Female:!!35 to 44 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_129,Estimate!!Total:!!Female:!!35 to 44 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_130,Estimate!!Total:!!Female:!!35 to 44 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_131,Estimate!!Total:!!Female:!!45 to 54 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_132,Estimate!!Total:!!Female:!!45 to 54 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_133,Estimate!!Total:!!Female:!!45 to 54 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_134,Estimate!!Total:!!Female:!!45 to 54 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_135,Estimate!!Total:!!Female:!!45 to 54 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_136,Estimate!!Total:!!Female:!!45 to 54 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_137,Estimate!!Total:!!Female:!!45 to 54 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_138,Estimate!!Total:!!Female:!!55 to 59 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_139,Estimate!!Total:!!Female:!!55 to 59 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_140,Estimate!!Total:!!Female:!!55 to 59 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_141,Estimate!!Total:!!Female:!!55 to 59 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_142,Estimate!!Total:!!Female:!!55 to 59 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_143,Estimate!!Total:!!Female:!!55 to 59 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_144,Estimate!!Total:!!Female:!!55 to 59 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_145,Estimate!!Total:!!Female:!!60 and 61 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_146,Estimate!!Total:!!Female:!!60 and 61 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_147,Estimate!!Total:!!Female:!!60 and 61 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_148,Estimate!!Total:!!Female:!!60 and 61 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_149,Estimate!!Total:!!Female:!!60 and 61 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_150,Estimate!!Total:!!Female:!!60 and 61 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_151,Estimate!!Total:!!Female:!!60 and 61 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_152,Estimate!!Total:!!Female:!!62 to 64 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_153,Estimate!!Total:!!Female:!!62 to 64 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_154,Estimate!!Total:!!Female:!!62 to 64 years:!!In labor force:!!In Armed Forces,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_155,Estimate!!Total:!!Female:!!62 to 64 years:!!In labor force:!!Civilian:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_156,Estimate!!Total:!!Female:!!62 to 64 years:!!In labor force:!!Civilian:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_157,Estimate!!Total:!!Female:!!62 to 64 years:!!In labor force:!!Civilian:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_158,Estimate!!Total:!!Female:!!62 to 64 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_159,Estimate!!Total:!!Female:!!65 to 69 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_160,Estimate!!Total:!!Female:!!65 to 69 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_161,Estimate!!Total:!!Female:!!65 to 69 years:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_162,Estimate!!Total:!!Female:!!65 to 69 years:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_163,Estimate!!Total:!!Female:!!65 to 69 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_164,Estimate!!Total:!!Female:!!70 to 74 years:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_165,Estimate!!Total:!!Female:!!70 to 74 years:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_166,Estimate!!Total:!!Female:!!70 to 74 years:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_167,Estimate!!Total:!!Female:!!70 to 74 years:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_168,Estimate!!Total:!!Female:!!70 to 74 years:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_169,Estimate!!Total:!!Female:!!75 years and over:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_170,Estimate!!Total:!!Female:!!75 years and over:!!In labor force:,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_171,Estimate!!Total:!!Female:!!75 years and over:!!In labor force:!!Employed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_172,Estimate!!Total:!!Female:!!75 years and over:!!In labor force:!!Unemployed,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B23001_173,Estimate!!Total:!!Female:!!75 years and over:!!Not in labor force,Sex by Age by Employment Status for the Population 16 Years and Over,tract
+B25003_001,Estimate!!Total:,Tenure,block group
+B25003_002,Estimate!!Total:!!Owner occupied,Tenure,block group
+B25003_003,Estimate!!Total:!!Renter occupied,Tenure,block group
+B25002_001,Estimate!!Total:,Occupancy Status,block group
+B25002_002,Estimate!!Total:!!Occupied,Occupancy Status,block group
+B25002_003,Estimate!!Total:!!Vacant,Occupancy Status,block group
